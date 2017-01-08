@@ -1,5 +1,7 @@
 HackerRank 30 Days of Code Challenge Programs List
 --------------------------------------------------
+Official Link to the HackerRank code challenge questions : https://www.hackerrank.com/domains/tutorials/30-days-of-code 
+
 Day #00 : <a href="HelloWorld.java">Hello, World.</a>
 
 Day #01 : <a href="DataTypesDemo.java.java">Data Types</a>
