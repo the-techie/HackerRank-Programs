@@ -40,7 +40,7 @@ Day #18 : <a href="#">Queues and Stacks</a>
 
 Day #19 : <a href="#">Interfaces</a>
 
-Day #20 :<a href="#">Sorting</a>
+Day #20 : <a href="#">Sorting</a>
 
 Day #21 : <a href="#">Generics</a>
 
@@ -60,4 +60,4 @@ Day #28 : <a href="#">RegEx, Patterns and Intro to Databases</a>
 
 Day #29 : <a href="#">Bitwise AND</a>
 
-Day #30 : <a href="#">Thanks all :)</a>
+Day #30 : <a href="#">That's all :)</a>
