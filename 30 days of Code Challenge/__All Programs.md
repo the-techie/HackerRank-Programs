@@ -3,35 +3,35 @@ HackerRank 30 Days of Code Challenge Programs List
 
 <b>Official Link to the HackerRank code challenge questions :</b> https://www.hackerrank.com/domains/tutorials/30-days-of-code 
 
-Day #00 : <a href="HelloWorld.java">Hello, World.</a>
+Day #00 : Hello, World - <a href="HelloWorld.java">Hello, World.</a>
 
-Day #01 : <a href="DataTypesDemo.java.java">Data Types</a>
+Day #01 : Data Types - <a href="DataTypesDemo.java.java">Data Types</a>
 
-Day #02 : <a href="OperatorsDemo.java">Operators</a>
+Day #02 : Operators - <a href="OperatorsDemo.java">Operators</a>
 
-Day #03 : <a href="ConditionalsDemo.java">Intro to Conditionals Statements</a>
+Day #03 : Intro to Conditionals Statements - <a href="ConditionalsDemo.java">Intro to Conditionals Statements</a>
 
-Day #04 : <a href="InstanceDemo.java">Class vs. Instance</a>
+Day #04 : Class vs. Instance - <a href="InstanceDemo.java">Class vs. Instance</a>
 
-Day #05 : <a href="LoopsDemo.java">Loops</a>
+Day #05 : Loops - <a href="LoopsDemo.java">Loops</a>
 
-Day #06 : <a href="StringLoopDemo.java">Let's Review</a>
+Day #06 : Let's Review - <a href="StringLoopDemo.java">Let's Review</a>
 
-Day #07 : <a href="ArraysDemo.java">Arrays</a>
+Day #07 : Arrays - <a href="ArraysDemo.java">Arrays</a>
 
-Day #08 : <a href="DictionaryAndMaps.java">Dictionary and Maps</a>
+Day #08 : Dictionary and Maps - <a href="DictionaryAndMaps.java">Dictionary and Maps</a>
 
-Day #09 : <a href="RecursionDemo.java">Recursion</a>
+Day #09 : Recursion - <a href="RecursionDemo.java">Recursion</a>
 
-Day #10 : <a href="BinaryNumberDemo.java">Binary Numbers</a>
+Day #10 : Binary Numbers - <a href="BinaryNumberDemo.java">Binary Numbers</a>
 
-Day #11 : <a href="2DArraysDemo.java">2D Arrays</a>
+Day #11 : 2D Arrays - <a href="2DArraysDemo.java">2D Arrays</a>
 
-Day #12 : <a href="InheritanceDemo.java">Inheritance</a>
+Day #12 : Inheritance - <a href="InheritanceDemo.java">Inheritance</a>
 
-Day #13 : <a href="AbstractClassDemo.java">Abstract Classes</a>
+Day #13 : Abstract Classes - <a href="AbstractClassDemo.java">Abstract Classes</a>
 
-Day #14 : <a href="ScopeDemo.java">Scope</a>
+Day #14 : Scope - <a href="ScopeDemo.java">Scope</a>
 
 Day #15 : <a href="#">Linked List</a>
 
